@@ -1,0 +1,24 @@
+created by Ryan Dol in 2009
+nodejs- serve side programming
+can build client side application
+grunt, gulp - combine multiple js files to single file
+angular js testing - jasmine
+karma - run tests
+multithreading not supported in nodejs
+
+web pack module bundler - budle different files(.coffee, .js, less) to js
+we can do operations in node, like node > console.log('hello')
+p1 = {} -- object
+p1.name = 'sid'
+p1.no = 8600006469
+p1.name ->o/p 'sid'
+global variable is the variable in nodejs .. parent of all objects.. this p1 will also be there
+require -- is a function
+Module -- is an Object
+
+var num = 12;
+for(var i=0; i<num; i++){
+    //console.log(num + ' X ' +i + '=' + (num*i));
+    console.log(`${num} X ${i} = ${num*i}`);   -->use tilde
+}
+

@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo test project",
+  "main": "MyUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ex01.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthadhanetwal15/nodedemo.git"
+  },
+  "author": "siddhartha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharthadhanetwal15/nodedemo/issues"
+  },
+  "homepage": "https://github.com/siddharthadhanetwal15/nodedemo#readme",
+  "dependencies": {
+    "jasmine": "^3.2.0"
+  }
+}
